@@ -10,6 +10,7 @@
 				FROM	lyjrh_comprofiler
 				";
 
+
 //				WHERE	user_id < 10020
 	
 	$consulta = mysqli_query($link,$consulta); 
